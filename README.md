@@ -16,7 +16,7 @@ Hope you enjoy it!
 
 
 # Project description
-Project with emphasis on web development using javaScript. The main purpose is to simulate a dog dating app.
+Project with an emphasis on web development using JavaScript. The main objective is to simulate the throwing of dice by two players and the dice with the highest number will be the winner.
 
   <p align=center>
     <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/dicee.png'>
@@ -36,7 +36,7 @@ Project with emphasis on web development using javaScript. The main purpose is t
 
 # Project access
 
-:link: https://tin-dog-murex.vercel.app/
+:link: https://dicee-virid.vercel.app/
 
 ## Author
 
