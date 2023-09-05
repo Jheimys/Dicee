@@ -16,7 +16,7 @@ Hope you enjoy it!
 
 
 # Project description
-Project with an emphasis on web development using JavaScript. The main objective is to simulate the throwing of dice by two players and the dice with the highest number will be the winner.
+Project with emphasis on web development using JavaScript. The main objective is to simulate the throwing of dice by two players in which the dice with the highest number will be the winner.
 
   <p align=center>
     <image width="670" heigth="570" src='https://github.com/Jheimys/assets/blob/master/dicee.png'>
